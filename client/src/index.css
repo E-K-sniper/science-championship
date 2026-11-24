@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-bg text-ink font-arabic;
+}
+
+.card {
+  @apply bg-white rounded-2xl shadow-sm border border-slate-100 p-5;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 font-bold transition active:scale-95 disabled:opacity-50;
+}
+.btn-primary { @apply btn bg-turquoise text-white hover:bg-[#127480]; }
+.btn-navy { @apply btn bg-navy text-white hover:bg-[#0d2233]; }
+.btn-purple { @apply btn bg-purple text-white hover:bg-[#6d48ad]; }
+.btn-gold { @apply btn bg-gold text-navy hover:bg-[#c08f33]; }
+.btn-outline { @apply btn border-2 border-turquoise text-turquoise hover:bg-turquoise/10; }
+
+.input {
+  @apply w-full rounded-xl border border-slate-200 px-4 py-3 bg-white focus:outline-none focus:ring-2 focus:ring-turquoise/40 focus:border-turquoise;
+}
+
+.badge-chip {
+  @apply inline-flex items-center gap-1 rounded-full px-3 py-1 text-sm font-bold;
+}
