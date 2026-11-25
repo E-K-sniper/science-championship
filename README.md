@@ -2,6 +2,13 @@
 ## Science Learning Outcomes Championship
 
 منصة تعليمية تفاعلية متكاملة لمرحلة الصف السادس — المدرسة السادسة عشر.
+> ## 🚀 نشر بضغطة واحدة على Koyeb
+> **[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&name=science-championship&repository=E-K-sniper%2Fscience-championship&branch=main&builder=dockerfile&instance_type=nano&ports=8000%3Bhttp%3B%2F&env%5BNODE_ENV%5D=production&env%5BJWT_SECRET%5D=f70cdff2eda83dc3a6560bea233c45c9d56c3d373de6f94e4e8de9f24ba2a337&env%5BDATABASE_PATH%5D=%2Fdata)**
+>
+> اضغطي الزر ← ستفتح صفحة Koyeb بكل الإعدادات جاهزة ← اضغطي **Deploy**. بعد النشر ستحصلين على رابط `https://....koyeb.app`.
+
+---
+
 معلمة المشروع: **موضي أحمد علي الزقلي** | مديرة المدرسة: **مزنه الصقور** | العام الدراسي: **1448هـ**
 
 ---
